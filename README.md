@@ -2,8 +2,9 @@
 
 TODO: 
   ~~Add Conv2 Gaussian smoothing across an image. ~~
-  Add FWHM to 2D Gaussian kernel - will remove need to calculate the dimensions of the kernel upfront.
+  ~~Add FWHM to 2D Gaussian kernel - will remove need to calculate the dimensions of the kernel upfront.~~
   
+## Kernel smoothing
   Bibliography: 
   
     https://homepages.inf.ed.ac.uk/rbf/HIPR2/gsmooth.htm
@@ -12,3 +13,8 @@ TODO:
     
     https://stackoverflow.com/questions/28754252/smoothing-a-noisy-image-then-sharpening
     
+## Gaussian Processes:
+  
+  Bibliography: 
+  
+    http://cs229.stanford.edu/section/cs229-gaussian_processes.pdf
