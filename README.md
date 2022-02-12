@@ -23,3 +23,4 @@
 
 ## Kalman filters
    [Kalman filter demystified: from intuition to probabilistic graphical model to real case in financial markets](https://arxiv.org/pdf/1811.11618.pdf)
+   [Kalman filter video](https://www.youtube.com/watch?v=CaCcOwJPytQ)
