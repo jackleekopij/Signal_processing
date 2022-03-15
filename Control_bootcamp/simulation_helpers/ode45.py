@@ -1,3 +1,6 @@
+from scipy import signal
+import numpy as np
+
 def ode45_step(f, x, t, dt, *args):
     """
     One step of 4th Order Runge-Kutta method
