@@ -18,7 +18,7 @@
     http://cs229.stanford.edu/section/cs229-gaussian_processes.pdf
 
 ## Bayesian optimisation:
-Bayesian optimisation was pivotal in the implementation of AlphaGo achieving its success. 
+Bayesian optimisation was pivotal in the implementation of AlphaGo achieving its success ([paper on Bayesian optimisation in AlphaGo](https://arxiv.org/pdf/1812.06855.pdf)).
 
 ## Hidden Markov Models: 
 
