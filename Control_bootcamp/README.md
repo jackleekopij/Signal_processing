@@ -10,3 +10,10 @@ Difference equations = discrete
 Differential equations = equations
 
 https://studylib.net/doc/13559493/18.03-difference-equations-and-z-transforms-jeremy-orloff
+
+## Time-invariant system
+A time-invariant system is a system where output y(t) does only implicitly depends on time through X(t).
+A time-invariant system
+y(t) = X(t)
+Non-time-invariant
+y(t) = tx(t)
