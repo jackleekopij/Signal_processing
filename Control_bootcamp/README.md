@@ -5,6 +5,8 @@ Notes from Steve Brunton's YouTube series 'Control Bootcamp'. https://www.youtub
 # Kalman filters
 Kalman filters are an example of feedback control, where the K feedback value for the feedback system (A-Bk)X is the Kalman gain value.
 
+Kalman filters provide a methodology for state estimation and are known as linear state estimation. State estimation is allows a subset of the control parameters to be measured but can form a prediction of the entire state space.
+
 # Difference equations
 Difference equations = discrete
 Differential equations = equations
