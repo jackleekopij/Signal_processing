@@ -18,9 +18,20 @@
     http://cs229.stanford.edu/section/cs229-gaussian_processes.pdf
 
 ## Bayesian optimisation:
+Bayesian optimisation was pivotal in the implementation of AlphaGo achieving its success ([paper on Bayesian optimisation in AlphaGo](https://arxiv.org/pdf/1812.06855.pdf)).
 
 ## Hidden Markov Models: 
 
 ## Kalman filters
    [Kalman filter demystified: from intuition to probabilistic graphical model to real case in financial markets](https://arxiv.org/pdf/1811.11618.pdf)
    [Kalman filter video](https://www.youtube.com/watch?v=CaCcOwJPytQ)
+
+### ML and Physical World - Neil Lawrence
+1. Laplace's demon, full determinism in physical world is not possible.
+2. Machine learning, data + model = prediction. Too much of ML has had pure focus on prediction.
+3. Stochastic Vs Determinism, likened to hurricane Vs Navier-Stokes equation.
+4. Physical Vs Simulation Vs emulations. UK's BOM uses too much low level physics, not enough high level emulations /ML.
+5. OR and Machine Learning hasn't come together as of
+6. Separation of concern architecture - has focused on prediction at the cost of explanability.
+Video: https://youtu.be/FuJgGeKMIJM
+Lecture series: https://mlatcl.github.io/mlphysical/
