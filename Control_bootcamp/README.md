@@ -2,6 +2,13 @@
 
 Notes from Steve Brunton's YouTube series 'Control Bootcamp'. https://www.youtube.com/watch?v=Pi7l8mMjYVE&list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m
 
+## Control in Python
+
+The following is a fantastic website for control in Python:
+https://apmonitor.com/pdc/index.php/Main/ModelSimulation
+
+A nuance with the Scipy.Signal.StateSpace(A,B,C,D) function is that values must not be integers. 
+
 # Kalman filters
 Kalman filters are an example of feedback control, where the K feedback value for the feedback system (A-Bk)X is the Kalman gain value.
 
