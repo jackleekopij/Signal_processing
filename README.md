@@ -1,5 +1,8 @@
 # Signal_processing
 
+## Fourier transform
+Heat equation https://tutorial.math.lamar.edu/classes/de/theheatequation.aspx
+
 ## Kernel smoothing
   Bibliography: 
   
@@ -31,7 +34,7 @@ Bayesian optimisation was pivotal in the implementation of AlphaGo achieving its
 2. Machine learning, data + model = prediction. Too much of ML has had pure focus on prediction.
 3. Stochastic Vs Determinism, likened to hurricane Vs Navier-Stokes equation.
 4. Physical Vs Simulation Vs emulations. UK's BOM uses too much low level physics, not enough high level emulations /ML.
-5. OR and Machine Learning hasn't come together as of
+5. OR and Machine Learning hasn't come together as of yet.
 6. Separation of concern architecture - has focused on prediction at the cost of explanability.
 Video: https://youtu.be/FuJgGeKMIJM
 Lecture series: https://mlatcl.github.io/mlphysical/
