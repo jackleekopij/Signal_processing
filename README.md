@@ -30,11 +30,13 @@ Bayesian optimisation was pivotal in the implementation of AlphaGo achieving its
    [Kalman filter video](https://www.youtube.com/watch?v=CaCcOwJPytQ)
 
 ### ML and Physical World - Neil Lawrence
-1. Laplace's demon, full determinism in physical world is not possible.
-2. Machine learning, data + model = prediction. Too much of ML has had pure focus on prediction.
-3. Stochastic Vs Determinism, likened to hurricane Vs Navier-Stokes equation.
-4. Physical Vs Simulation Vs emulations. UK's BOM uses too much low level physics, not enough high level emulations /ML.
-5. OR and Machine Learning hasn't come together as of yet.
-6. Separation of concern architecture - has focused on prediction at the cost of explanability.
+1.	Laplace's demon, full determinism in physical world is not possible.
+2.	Machine learning, data + model = prediction. Too much of ML has had pure focus on prediction more work needs to be causal ML to endeavour to understand system = more transferability.
+3.	Analogy  of Stochastic Vs Determinism, likened to hurricane Vs Navier-Stokes equation. Be mindful of your model’s granularity.
+4.	Physical Vs Simulation Vs emulations. UK's BOM uses too much low level physics, not enough high level emulations /ML.
+5.	OR and Machine Learning hasn't come together as of yet. There’s a lot of low hanging fruit to be had at the intersection of these fields.
+6.	Separation of concern architecture – again has focused on prediction at the cost of explanability, needs to incorporate causal lens.
+
 Video: https://youtu.be/FuJgGeKMIJM
+
 Lecture series: https://mlatcl.github.io/mlphysical/
