@@ -23,7 +23,15 @@ Heat equation https://tutorial.math.lamar.edu/classes/de/theheatequation.aspx
  
     
 ## Gaussian Processes:
+Carl Rasmussen GPs
+http://gaussianprocess.org/gpml/chapters/RW.pdf
+"There are several ways to interpret Gaussian Process regression models:
+1. Weight space
+2. Function space
   
+Predictive distribution, P(y*|x*, y, x) = \int P(y*|f,x*) P(f|y, x) df)
+
+A Gaussian Process (prior) is a prior distribution on some unknown *function*, \mu(x). 
   Bibliography: 
   
     http://cs229.stanford.edu/section/cs229-gaussian_processes.pdf
