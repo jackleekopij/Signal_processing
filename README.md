@@ -1,5 +1,13 @@
 # Signal_processing
 
+
+## Uncertainty quantification
+Forms of uncertainty:
+
+Epistemic uncertainty - translates to 'knowledge' in Greek, is the uncertainty derived from lack of knowledge of information which can be reduced with further data.
+Aleatoric uncertainty - comes from the word "alea" which means "the roll of the dice" and is defined as internal, unexplainable randomness
+
+
 ## Fourier transform
 Heat equation https://tutorial.math.lamar.edu/classes/de/theheatequation.aspx
 
