@@ -27,7 +27,7 @@ Carl Rasmussen GPs
 http://gaussianprocess.org/gpml/chapters/RW.pdf
 "There are several ways to interpret Gaussian Process regression models:
 1. Weight space
-2. Function space
+2. Function space - a probability density directly over the function output space.
   
 Predictive distribution, P(y*|x*, y, x) = \int P(y*|f,x*) P(f|y, x) df)
 
