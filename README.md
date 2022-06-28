@@ -36,7 +36,7 @@ A Gaussian Process (prior) is a prior distribution on some unknown *function*, \
 Fantastic introduction resource video on GPs:
 https://www.youtube.com/watch?v=UBDgSHPxVME
 
-Gaussian Processes have propertry where by as you move away from data uncertainty decreases.
+Gaussian Processes have propertry where by as you move away from data uncertainty decreases. Such increase in uncertainty propagates both along the x-axis and the y-axis.
   Bibliography: 
   
     http://cs229.stanford.edu/section/cs229-gaussian_processes.pdf
