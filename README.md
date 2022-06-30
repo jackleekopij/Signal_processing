@@ -37,6 +37,7 @@ Fantastic introduction resource video on GPs:
 https://www.youtube.com/watch?v=UBDgSHPxVME
 
 https://towardsdatascience.com/gaussian-process-regression-from-first-principles-833f4aa5f842
+https://www.cs.cmu.edu/~epxing/Class/10708-20/scribe/lec21_scribe.pdf
 
 Gaussian Processes have propertry where by as you move away from data uncertainty decreases. Such increase in uncertainty propagates both along the x-axis and the y-axis.
   Bibliography: 
