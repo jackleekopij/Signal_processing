@@ -33,6 +33,9 @@ Predictive distribution, P(y*|x*, y, x) = \int P(y*|f,x*) P(f|y, x) df)
 
 A Gaussian Process (prior) is a prior distribution on some unknown *function*, \mu(x). 
 
+Kriging
+
+
 Fantastic introduction resource video on GPs:
 https://www.youtube.com/watch?v=UBDgSHPxVME
 
