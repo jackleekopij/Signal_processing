@@ -35,6 +35,7 @@ A Gaussian Process (prior) is a prior distribution on some unknown *function*, \
 
 Kriging
 
+Kernels are can be added together to capture multiple factors.
 
 Fantastic introduction resource video on GPs:
 https://www.youtube.com/watch?v=UBDgSHPxVME
