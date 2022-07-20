@@ -53,6 +53,7 @@ Bayesian optimisation was pivotal in the implementation of AlphaGo achieving its
 
 ## linear regression - interaction effect
 Allows for non-linear trends to be fit. I.e. impact of watering lawn via both sprinklers and rain. Don't do one and the lawn dies, do one the lawn lives and do both the lawn dies.
+Another, example is that of the XOR gate which can be modelled using an interaction effect.
 
 ## Hidden Markov Models: 
 
