@@ -51,6 +51,13 @@ Gaussian Processes have propertry where by as you move away from data uncertaint
 ## Bayesian optimisation:
 Bayesian optimisation was pivotal in the implementation of AlphaGo achieving its success ([paper on Bayesian optimisation in AlphaGo](https://arxiv.org/pdf/1812.06855.pdf)).
 
+## linear regression - interaction effect
+Allows for non-linear trends to be fit. I.e. impact of watering lawn via both sprinklers and rain. Don't do one and the lawn dies, do one the lawn lives and do both the lawn dies.
+Another, example is that of the XOR gate which can be modelled using an interaction effect.
+
+An interaction effect is modelled by combining parameter multiplicatively:
+Y = \beta_1 x_1 + \beta_2 x_2 + \beta_3 x_1 x_2
+
 ## Hidden Markov Models: 
 
 ## Kalman filters
